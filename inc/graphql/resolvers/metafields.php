@@ -3,7 +3,7 @@
 /**
  * Metafields GraphQL resolver.
  *
- * @package _Headless
+ * @package Seattle
  */
 
 

@@ -2,9 +2,9 @@
 /**
  *
  * Read more about this project at:
- * https://github.com/underlost/_headless
+ * https://github.com/underlost/Seattle
  *
- * @package  _Headless
+ * @package  Seattle
  */
 
 require_once 'inc/globals.php';

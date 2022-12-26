@@ -2,7 +2,7 @@
 /**
  * Add GraphQL resolvers
  *
- * @package  _Headless
+ * @package  Seattle
  */
 
 // check if WPGraphQL plugin is active.

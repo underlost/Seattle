@@ -2,7 +2,7 @@
 /**
  * Log helper functions.
  *
- * @package  _Headless
+ * @package  Seattle
  */
 
 /**

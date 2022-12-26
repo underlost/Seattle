@@ -2,7 +2,7 @@
 /**
  * Redirect frontend requests to REST API.
  *
- * @package  _Headless
+ * @package  Seattle
  */
 
 // Redirect individual posts to the REST API endpoint.

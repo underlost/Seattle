@@ -3,7 +3,7 @@
 /**
  * Header Menu GraphQL resolver.
  *
- * @package _Headless
+ * @package Seattle
  */
 
 /**
@@ -50,7 +50,7 @@ add_action(
             'headerMenu',
             array(
                 'type'        =>  ['list_of' => 'HeaderMenuType'],
-                'description' => __('Returns the header menu items', '_headless'),
+                'description' => __('Returns the header menu items', 'seattle'),
                 'resolve'     => function () {
                     return get_items();
                 },

@@ -2,7 +2,7 @@
 /**
  * Admin filters.
  *
- * @package  _Headless
+ * @package  Seattle
  */
 
 /**

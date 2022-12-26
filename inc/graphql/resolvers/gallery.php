@@ -3,7 +3,7 @@
 /**
  * Gallery Images GraphQL resolver.
  *
- * @package _Headless
+ * @package Seattle
  */
 
 /**
@@ -14,7 +14,7 @@ add_action('graphql_register_types', function () {
   register_graphql_object_type(
     'galleryImage',
     [
-      'description' => __('Gallery Image', '_headless'),
+      'description' => __('Gallery Image', 'seattle'),
       'fields'      => [
         'id'       => [
           'type'        => 'String',

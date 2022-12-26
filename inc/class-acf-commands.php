@@ -4,7 +4,7 @@
  *
  * @codingStandardsIgnoreFile copied from https://support.advancedcustomfields.com/forums/topic/automatic-synchronized-json/#post-41806
  *
- * @package  _Headless
+ * @package  Seattle
  */
 
 if ( defined( 'WP_CLI' ) && WP_CLI && ! class_exists( 'ACF_Commands' ) ) {

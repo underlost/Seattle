@@ -2,7 +2,7 @@
 /**
  * Add ACF options page.
  *
- * @package  _Headless
+ * @package  Seattle
  */
 
 // Add a custom options page to associate ACF fields.

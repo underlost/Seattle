@@ -2,7 +2,7 @@
 /**
  * REST API CORS filter.
  *
- * @package  _Headless
+ * @package  Seattle
  */
 
 /**

@@ -2,7 +2,7 @@
 /**
  * Frontend origin helper function.
  *
- * @package  _headless
+ * @package  Seattle
  */
 
 /**
